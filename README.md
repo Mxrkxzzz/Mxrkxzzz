@@ -1,4 +1,4 @@
-# Hola, soy Marcos Aliaga y soy estudiante de Ingenieria en Software con I.A💻
+Soy Marcos Aliaga y soy estudiante de Ingenieria en Software con I.A💻
 Aqui mostrare mis proyectos personales y proyectos de estudio. Domino varias plataformas, lenguajes y sistemas integrados.
 
 <div style="display: inline_block"><br>
