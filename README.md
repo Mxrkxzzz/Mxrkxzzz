@@ -1,5 +1,6 @@
 Soy Marcos Aliaga y soy estudiante de Ingenieria en Software con I.A💻
-Aqui mostrare mis proyectos personales y proyectos de estudio. Domino varias plataformas, lenguajes y sistemas integrados.
+
+<br>Aqui mostrare mis proyectos personales y proyectos de estudio. Domino varias plataformas, lenguajes y sistemas integrados.</br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
