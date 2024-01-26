@@ -1,6 +1,7 @@
-Soy Marcos Aliaga y soy estudiante de Ingenieria en Software con I.A💻
-<br>Aqui mostrare mis proyectos personales y proyectos de estudio.</br> 
-<br>Domino varias plataformas, lenguajes y sistemas integrados.</br>
+Técnico en Ingeniería en Software con Especialización en Inteligencia 
+Artificial, poseo una sólida formación<br> técnica que combina habilidades de 
+desarrollo de software con conocimientos especializados en las últimas <br>
+tecnologías de Inteligencia Artificial (IA).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
