@@ -1,8 +1,6 @@
 Hola, mi nombre es Marcos Aliaga 👋
 ### SOFTWARE ENGINEERING TECHNICIAN WITH ARTIFICIAL INTELLIGENCE
 
-Soy ingeniero de software profesional desde hace más de doce años.
-
 ¡Hola! Soy Marcos Aliaga, un apasionado programador con formación en Ingeniería en Software e Inteligencia Artificial. Mi viaje profesional se ha centrado en la creación de soluciones innovadoras que combinan la potencia de la programación con la inteligencia artificial para abordar desafíos complejos. Me encanta explorar nuevas tecnologías y aplicarlas de manera creativa para desarrollar software eficiente y avanzado. 
 
 ## Tecnologías:
