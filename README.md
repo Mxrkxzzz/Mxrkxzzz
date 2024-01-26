@@ -3,7 +3,7 @@ Hola, mi nombre es Marcos Aliaga 👋
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
-¡Hola! Soy Marcos Aliaga, un apasionado programador con formación en Ingeniería en Software e Inteligencia Artificial. Mi viaje profesional se ha centrado en la creación de soluciones innovadoras que combinan la potencia de la programación con la inteligencia artificial para abordar desafíos complejos. Me encanta explorar nuevas tecnologías y aplicarlas de manera creativa para desarrollar software eficiente y avanzado. Bienvenido a mi portafolio, donde podrás explorar mis proyectos y descubrir cómo la programación y la IA pueden converger para transformar ideas en realidad. ¡Espero que disfrutes explorando mi mundo digital!
+¡Hola! Soy Marcos Aliaga, un apasionado programador con formación en Ingeniería en Software e Inteligencia Artificial. Mi viaje profesional se ha centrado en la creación de soluciones innovadoras que combinan la potencia de la programación con la inteligencia artificial para abordar desafíos complejos. Me encanta explorar nuevas tecnologías y aplicarlas de manera creativa para desarrollar software eficiente y avanzado. 
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
