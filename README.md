@@ -30,11 +30,6 @@ Y alguna más...
 [![Web](https://img.shields.io/badge/Web-Marcxs.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://marcxs.com)
 
 
-
-## Algunos proyectos personales:
-
-
-
 ## Contacto y apoyo:
 
 [![Email](https://img.shields.io/badge/marcxsaliaga@gmail.com-email_personal_(respuesta_inmediata)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
