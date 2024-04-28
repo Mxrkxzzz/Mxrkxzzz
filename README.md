@@ -5,14 +5,12 @@ Hola, mi nombre es Marcos Aliaga 👋
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&labelColor=1010110)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-232F3E?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![C](https://img.shields.io/badge/C-232F3E?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-47A248?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
@@ -32,4 +30,4 @@ Y alguna más...
 
 ## Contacto y apoyo:
 
-[![Email](https://img.shields.io/badge/marcxsaliaga@gmail.com-email_personal_(respuesta_inmediata)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/marcxsaliaga@gmail.com-email_personal_(respuesta_inmediata)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marcxsaliaga@gmail.com)
